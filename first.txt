@@ -1,5 +1,5 @@
 first
 -- After Rebasing with Master
 On Master After Feature1 Created - Changes
-On Feature One - change1
--- After feature 2, changes in Master
+On Feature One - change1-- After feature 2, changes in Master
+-- Feature2 Changes
